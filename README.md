@@ -7,19 +7,19 @@ The project demonstrates user authentication, session management, database relat
 
 # Features
 
-User Authentication
+# User Authentication
 	•	User registration
 	•	Secure password hashing
 	•	Login and logout functionality
 	•	JWT-based authentication stored in cookies
 
-Post Management
+# Post Management
 	•	Create new posts
 	•	Edit existing posts
 	•	View all posts on profile
 	•	Like and unlike own posts
 
-Security
+# Security
 	•	Password hashing using bcrypt
 	•	Authentication using JSON Web Tokens
 	•	Protected routes using middleware
